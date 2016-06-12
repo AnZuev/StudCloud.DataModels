@@ -1,0 +1,29 @@
+{
+  "name": "@anzuev/studcloud.datamodels",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnZuev/StudCloud.DataModels.git"
+  },
+  "author": "AnZuev",
+  "keywords": [
+    "studcloud",
+    "DataModels"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "@anzuev/studcloud.errors": "~0.2.0",
+    "mongoose": "^4.4.20",
+    "nconf": "^0.8.4"
+  },
+  "bugs": {
+    "url": "https://github.com/AnZuev/StudCloud.DataModels/issues"
+  },
+  "homepage": "https://github.com/AnZuev/StudCloud.DataModels#readme",
+  "description": "Data Models for StudCloud project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
