@@ -14,7 +14,8 @@
   "dependencies": {
     "@anzuev/studcloud.errors": "~0.2.0",
     "mongoose": "^4.4.20",
-    "nconf": "^0.8.4"
+    "nconf": "^0.8.4",
+    "q": "^1.4.1"
   },
   "bugs": {
     "url": "https://github.com/AnZuev/StudCloud.DataModels/issues"
