@@ -25,7 +25,8 @@ let File = new Schema({
 	},
 	access:{
 		publicAccess: Boolean,
-		cType: String
+		cType: String,
+		value: String
 	}
 },{
 	collection: 'files'
