@@ -4,7 +4,7 @@ let Schema = require('mongoose').Schema;
 
 
 
-var File = new Schema({
+let File = new Schema({
 	url: String,
 	title: String,
 	uploader:{

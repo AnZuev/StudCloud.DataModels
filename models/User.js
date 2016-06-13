@@ -1,8 +1,7 @@
 'use strict';
 
 let Schema = require('mongoose').Schema;
-
-var User = new Schema({
+let User = new Schema({
 	auth: {
 		mail:{
 			require: true,
