@@ -58,6 +58,8 @@ let Document = new Schema({
 		type: Boolean,
 		default: false
 	}
+},{
+	collection: 'documents'
 });
 
 module.exports = Document;
